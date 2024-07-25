@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Impacto das IA's no Mercado de Trabalho
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um breve resumo em vídeo sobre o principal impacto das IA's no mercado de trabalho
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Criação de roteiro: ChatGPT
+Criação de Vídeo: HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através do ChatGPT foi solicitado a criação de um breve roteiro para um vídeo curto com este tema citado na descrição. Em seguida, a criação do vídeo, alternando cada parte do roteiro com vídeos pré-prontos e voz gravada, através do HeyGen.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://youtube.com/shorts/hfRloOtysh8
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
